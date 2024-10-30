@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JW Player 7 for WP\n"
+"POT-Creation-Date: 2015-09-17 23:30+0100\n"
+"PO-Revision-Date: 2015-09-17 23:31+0100\n"
+"Last-Translator: ilGhera <info@ilghera.com>\n"
+"Language-Team: ilGhera <info@ilghera.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: /Users/ghera74/Desktop/jw-player-7-for-wp\n"
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:40
+msgid "It looks like you do not have sufficient permissions to view this page."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:49
+msgid "JW Player 7 for Wordrpess"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:57
+msgid "Settings"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:58
+msgid "Related videos"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:59
+msgid "Sharing"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:60
+msgid "Ads"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:80
+msgid "Player library URL"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:94
+msgid "JWP Licence Key"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:97
+msgid "Add your JW Player self-hosted license key."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:105
+msgid "Post types"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:118
+msgid "Select the type of content where display videos."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:119
+msgid "for custom post types."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:131
+msgid "Video Player position"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:136
+msgid "Before the content"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:139
+msgid "After the content"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:141
+msgid "Select the location where you want the video player is displayed."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:147
+msgid "Video text"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:149
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:199
+msgid "Loading the player..."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:150
+msgid "Add custom text that appears while the player is loading."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:163
+msgid "Default poster image"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:166
+msgid "Add the url of a default poster image."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:192
+msgid "Fixed"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:194
+msgid "Select how define the measures of the player."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:201
+msgid "Fixed measures"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:223
+msgid "Skin"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:239
+msgid "Choose a skin to customize your player."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:240
+msgid "for more skins."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:247
+msgid "Logo"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:250
+msgid "Image url"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:251
+msgid "Add your logo to the player."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:258
+msgid "Logo Link"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:261
+msgid "Link url"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:262
+msgid "Add a link to the logo."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:270
+msgid "Save changes "
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:296
+msgid "Active Related Videos option"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:301
+msgid "Show Related Videos overlay as default option."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:307
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:412
+msgid "Heading"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:310
+msgid "Related Videos"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:311
+msgid "Add a custom heading, default is <strong>Related Videos</strong>."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:318
+msgid "Related image"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:324
+msgid "Featured image"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:327
+msgid "Select how get images for related contents."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:334
+msgid "Thumbnail size"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:343
+msgid ""
+"Set the dimensions of each thumbnail in pixels. Default is <strong>140x80</"
+"strong>."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:355
+msgid "Categories"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:358
+msgid ""
+"Use a taxonomy to get more specific related videos. It will be add to all "
+"post types you choosed."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:359
+msgid ""
+"You can even use <strong>Video categories</strong> provided by this plugin."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:365
+msgid "Save chages"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:401
+msgid "Active Share option"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:406
+msgid ""
+"Active <strong>share video</strong> as default option. You'll be able to "
+"change it on single video."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:414
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:234
+msgid "Share Video"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:415
+msgid "Add a custom heading, default is <strong>Share Video</strong>"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:421
+msgid "Active embed option"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:426
+msgid ""
+"Active <strong>embed video</strong> as default option. You'll be able to "
+"change it on single video."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:433
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:504
+msgid "Save options"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:458
+msgid "Active Video Ads"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:463
+msgid "Add a <strong>Basic Preroll Video Ads</strong>"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:464
+msgid ""
+"A valid license for the Advertising edition of JW Player is required. The "
+"Free, Premium, and Enterprise editions do not support this function."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:470
+msgid "Ads Client"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:477
+msgid ""
+"Select your ADS Client. More info <a href=\"http://support.jwplayer.com/"
+"customer/portal/articles/1431638-ad-formats-reference\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:483
+msgid "Ads Tag"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:485
+msgid "Add the url of your XML file."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:486
+msgid ""
+"Please, set this to the URL of the ad tag that contains the pre-roll ad."
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:493
+msgid "Ad Skipping"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-admin.php:496
+msgid ""
+"Please, set an amount of time (seconds) that you want your viewers to watch "
+"an ad before being allowed to skip it"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:25
+msgid "JW Player 7"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:45
+msgid "Video URL"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:47
+msgid "Add the URL of your video (YouTube or self-hosted)"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:49
+msgid "More options"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:70
+msgid "Video poster image"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:72
+msgid "Add a different poster image for this video"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:75
+msgid "Video title"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:77
+msgid "Add a title to your video"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:80
+msgid "Video description"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:82
+msgid "Add a description to your video"
+msgstr ""
+
+#: /Users/ghera74/Desktop/jw-player-7-for-wp/includes/jwppp-functions.php:89
+msgid "Allow to embed this video"
+msgstr ""
